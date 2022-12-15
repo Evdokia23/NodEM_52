@@ -15,5 +15,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    ui->label->setText("Привет мир");
+    ui->label->setText("пока мир");
+    //hgyuguilui;
 }
